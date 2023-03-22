@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marek Matyas</h1>
-<h3 align="center">I'm a Tech passionate and a career changer, currently building knowledge in the field of DevOps.</h3>
+<h3 align="center">I'm a Tech passionate person and a career changer, currently building my knowledge in the field of DevOps.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*mqv03KrlG5LK2XU1uV4LJg.gif">
 
