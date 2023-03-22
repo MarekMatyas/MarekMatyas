@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marekmatyas&label=Profile%20views&color=0e75b6&style=flat" alt="marekmatyas" /> </p>
 
-- 🌱 I’m currently learning **AWS Cloud Practitioner, AWS RDS, Docker, Kubernetes, Terraform**
+- 🌱 I’m currently learning **AWS Cloud Practitioner, AWS RDS, Docker, Kubernetes, Terraform, and Jenkins**
 
 - 📫 How to reach me **matyasamarek@gmail.com**
 
