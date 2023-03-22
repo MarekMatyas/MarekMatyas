@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marekmatyas&label=Profile%20views&color=0e75b6&style=flat" alt="marekmatyas" /> </p>
 
-- 🌱 I’m currently learning **AWS Cloud Practitioner, AWS RDS, Docker, Kubernetes, Terraform, and Jenkins**
+- 🌱 I’m currently learning: **AWS Cloud Practitioner, AWS RDS, Docker, Kubernetes, Terraform, and Jenkins**
 
-- 📫 How to reach me **matyasamarek@gmail.com**
+- 📫 How to reach me: **matyasamarek@gmail.com**
 
-- ⚡ Fun fact **I watched the American show "The Office" 20+ times!**
+- ⚡ Fun fact: **I watched the American show "The Office" 20+ times!**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47choi3z4due1frch7m0xpbjxegkuz4i419zv3qtwn&rid=giphy.gif&ct=g">
