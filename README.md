@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marekmatyas&label=Profile%20views&color=0e75b6&style=flat" alt="marekmatyas" /> </p>
 
-- 🌱 I’m currently learning **AWS Cloud Practitioner, AWS RDS, Docker, Kubernetes, Terraform**
+- 🌱 My current upskilling: **AWS Cloud Practitioner, AWS RDS, Docker, Kubernetes, Terraform**
 
-- 📫 How to reach me **matyasamarek@gmail.com**
+- 📫 How to reach me: **matyasamarek@gmail.com**
 
-- ⚡ Fun fact **I watched the American show "The Office" 20+ times!**
+- ⚡ Fun fact: **I watched the American show "The Office" 20+ times!**
 
 <h3 align="left">Connect with me:</h3>
 
