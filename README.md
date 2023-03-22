@@ -10,6 +10,8 @@
 - ⚡ Fun fact: **I watched the American show "The Office" 20+ times!**
 
 <h3 align="left">Connect with me:</h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47choi3z4due1frch7m0xpbjxegkuz4i419zv3qtwn&rid=giphy.gif&ct=g">
 
 
