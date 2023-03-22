@@ -11,6 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47choi3z4due1frch7m0xpbjxegkuz4i419zv3qtwn&rid=giphy.gif&ct=g">
+
+
 <p align="left">
 <a href="https://linkedin.com/in/marek matyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marek matyas" height="30" width="40" /></a>
 </p>
