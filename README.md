@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marekmatyas&label=Profile%20views&color=0e75b6&style=flat" alt="marekmatyas" /> </p>
 
-- 🌱 My current upskilling: **AWS Cloud Practitioner, AWS RDS, Docker, Kubernetes, Terraform**
+- 🌱 My current upskilling: **AWS Cloud Practitioner, AWS RDS, Docker, Kubernetes, Terraform, and Python**
 
 - 📫 How to reach me: **matyasamarek@gmail.com**
 
